@@ -1,0 +1,2 @@
+ .OISIN-A { background:#0A0A0A; width:400px; height:auto; border-radius:2px }
+  .OISIN-B { width:400px; margin:30px 1px 10px; border-top:1px solid#FFF; font-family:'Playfair Display'; font-size:30px; font-style:oblique; color:white; text-align:CENTER; letter-spacing:3px; }
